@@ -1,0 +1,30 @@
+window 1:
+        Allow photos and media
+            1. allow = com.android.permissioncontroller:id/permission_allow_button
+            2. deny = com.android.permissioncontroller:id/permission_deny_button
+window 2:
+        Get Started = com.ATG.World:id/getStartedTv
+
+Join ATG window 3:
+        create new account = com.ATG.World:id/sign_up_email
+        sign in = com.ATG.World:id/login_email
+
+Create account window 4:
+        First Name = com.ATG.World:id/first_name
+        Last Name = com.ATG.World:id/last_name
+        email/phone = com.ATG.World:id/email_phone
+        pass 1= com.ATG.World:id/password
+        pass 2 = com.ATG.World:id/repassword
+        sign up button = com.ATG.World:id/email_sign_up_button
+
+save password window:
+    	not now = android:id/autofill_save_no
+
+
+got it =com.ATG.World:id/btnGotit
+
+
+create post window:
+    pen=com.ATG.World:id/fab
+    image=com.ATG.World:id/image_fab_clicked
+    
