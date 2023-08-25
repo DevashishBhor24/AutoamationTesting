@@ -19,3 +19,8 @@ This task was way more interesting than first as this task included the automati
 This task included the technologies to be used as Appium, Selenium, Webdriver, Android ADB,
  
 Task 2 Video - https://www.youtube.com/watch?v=Uf0smv7hdP8
+## Task 2 - Manual UI/UX Testing 
+
+This task was to test UI/UX designs manually.
+ 
+Task 3 Video - https://www.youtube.com/watch?v=m96HYfaLP4A
