@@ -1,5 +1,5 @@
 
-# BANAO AutomationTask
+# BANAO Automation Task
 
 An Automation and Testing challenge by a startup called BANAO Technologies for hiring Interns back in 2022.
 
