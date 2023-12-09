@@ -1,7 +1,7 @@
 
-# BANAO Automation Task
+# Android Application, REST API, UI/UX Automation Testing Project
 
-An Automation and Testing challenge by a startup called BANAO Technologies for hiring Interns back in 2022.
+An Automation and Testing challenge was conducted by a startup called BANAO Technologies.
 
 
 
